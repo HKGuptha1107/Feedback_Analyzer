@@ -1,0 +1,277 @@
+customer_id,customer_name,source,feedback_text,rating,category,sentiment,sentiment_score,date,product
+cust-111,Amara Okafor,Survey,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-09-01,flowdesk
+cust-109,Sophia Patel,Interview,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-09-01,flowdesk
+cust-102,Alex Rivera,App Review,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-09-02,flowdesk
+cust-103,Chloe Bennett,Survey,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-09-02,flowdesk
+cust-111,Amara Okafor,Email,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-09-02,flowdesk
+cust-102,Alex Rivera,App Review,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-09-02,flowdesk
+cust-113,Rachel Green,Email,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-09-03,flowdesk
+cust-114,Kenji Sato,Support Ticket,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-09-03,flowdesk
+cust-101,Sarah Connor,App Review,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-09-03,flowdesk
+cust-115,Fatima Al-Sayed,App Review,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-09-03,flowdesk
+cust-104,Marcus Vance,Support Ticket,Upload speeds degrade severely during peak working hours. It took 35 mins to upload our project zip.,1,Performance,negative,-0.85,2026-09-04,flowdesk
+cust-111,Amara Okafor,Interview,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-04,flowdesk
+cust-109,Sophia Patel,App Review,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-04,flowdesk
+cust-110,Lucas Silva,Interview,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-05,flowdesk
+cust-109,Sophia Patel,Feature Request,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-09-05,flowdesk
+cust-111,Amara Okafor,Feature Request,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-09-05,flowdesk
+cust-110,Lucas Silva,Support Ticket,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-09-06,flowdesk
+cust-107,Maya Lin,Survey,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-06,flowdesk
+cust-109,Sophia Patel,Interview,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-09-06,flowdesk
+cust-112,Thomas Becker,Support Ticket,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-09-06,flowdesk
+cust-111,Amara Okafor,Survey,Notifications can be slightly noisy during active brainstorming sessions.,3,Notifications,neutral,-0.1,2026-09-06,flowdesk
+cust-111,Amara Okafor,Feature Request,We are on the Enterprise plan and file uploads keep timing out. Considering switching tools.,1,Performance,negative,-0.95,2026-09-07,flowdesk
+cust-114,Kenji Sato,Survey,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-07,flowdesk
+cust-102,Alex Rivera,Email,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-07,flowdesk
+cust-101,Sarah Connor,Interview,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-09-07,flowdesk
+cust-107,Maya Lin,Email,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-09-07,flowdesk
+cust-111,Amara Okafor,Survey,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-09-08,flowdesk
+cust-115,Fatima Al-Sayed,Interview,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-09-08,flowdesk
+cust-107,Maya Lin,App Review,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-09-08,flowdesk
+cust-107,Maya Lin,Survey,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-09,flowdesk
+cust-111,Amara Okafor,Survey,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-09-09,flowdesk
+cust-101,Sarah Connor,Survey,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-09-09,flowdesk
+cust-105,Elena Rostova,App Review,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-10,flowdesk
+cust-111,Amara Okafor,Interview,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-10,flowdesk
+cust-106,David Kim,Feature Request,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-10,flowdesk
+cust-109,Sophia Patel,Survey,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-09-10,flowdesk
+cust-106,David Kim,App Review,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-09-11,flowdesk
+cust-109,Sophia Patel,App Review,We are on the Enterprise plan and file uploads keep timing out. Considering switching tools.,1,Performance,negative,-0.95,2026-09-11,flowdesk
+cust-108,Liam O'Connor,Survey,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-09-11,flowdesk
+cust-107,Maya Lin,Email,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-09-11,flowdesk
+cust-113,Rachel Green,Email,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-09-11,flowdesk
+cust-110,Lucas Silva,Survey,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-09-12,flowdesk
+cust-112,Thomas Becker,Interview,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-13,flowdesk
+cust-112,Thomas Becker,Support Ticket,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-13,flowdesk
+cust-112,Thomas Becker,Email,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-09-13,flowdesk
+cust-104,Marcus Vance,Email,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-09-13,flowdesk
+cust-105,Elena Rostova,Support Ticket,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-09-13,flowdesk
+cust-113,Rachel Green,Support Ticket,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-09-14,flowdesk
+cust-115,Fatima Al-Sayed,Interview,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-09-14,flowdesk
+cust-111,Amara Okafor,Survey,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-09-14,flowdesk
+cust-114,Kenji Sato,Email,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-15,flowdesk
+cust-102,Alex Rivera,Support Ticket,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-09-15,flowdesk
+cust-101,Sarah Connor,Interview,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-15,flowdesk
+cust-104,Marcus Vance,Survey,Would appreciate more webhook triggers for custom third-party integrations.,4,Feature Request,positive,0.5,2026-09-15,flowdesk
+cust-103,Chloe Bennett,Email,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-09-16,flowdesk
+cust-107,Maya Lin,Feature Request,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-09-16,flowdesk
+cust-110,Lucas Silva,Support Ticket,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-09-16,flowdesk
+cust-106,David Kim,App Review,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-09-16,flowdesk
+cust-105,Elena Rostova,Interview,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-09-16,flowdesk
+cust-109,Sophia Patel,Interview,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-09-17,flowdesk
+cust-109,Sophia Patel,Feature Request,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-17,flowdesk
+cust-109,Sophia Patel,Email,Upload speeds degrade severely during peak working hours. It took 35 mins to upload our project zip.,1,Performance,negative,-0.85,2026-09-17,flowdesk
+cust-115,Fatima Al-Sayed,Survey,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-09-17,flowdesk
+cust-104,Marcus Vance,Interview,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-09-17,flowdesk
+cust-103,Chloe Bennett,Support Ticket,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-09-17,flowdesk
+cust-101,Sarah Connor,Email,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-09-17,flowdesk
+cust-104,Marcus Vance,App Review,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-09-18,flowdesk
+cust-108,Liam O'Connor,Survey,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-18,flowdesk
+cust-102,Alex Rivera,Feature Request,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-09-18,flowdesk
+cust-109,Sophia Patel,App Review,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-09-19,flowdesk
+cust-110,Lucas Silva,Feature Request,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-09-20,flowdesk
+cust-114,Kenji Sato,App Review,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-09-20,flowdesk
+cust-109,Sophia Patel,Interview,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-09-20,flowdesk
+cust-104,Marcus Vance,Email,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-21,flowdesk
+cust-108,Liam O'Connor,Support Ticket,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-09-21,flowdesk
+cust-101,Sarah Connor,Feature Request,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-09-21,flowdesk
+cust-104,Marcus Vance,Email,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-09-21,flowdesk
+cust-107,Maya Lin,Feature Request,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-09-21,flowdesk
+cust-111,Amara Okafor,Interview,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-09-21,flowdesk
+cust-113,Rachel Green,App Review,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-22,flowdesk
+cust-105,Elena Rostova,Survey,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-09-22,flowdesk
+cust-110,Lucas Silva,Support Ticket,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-09-23,flowdesk
+cust-107,Maya Lin,Email,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-09-23,flowdesk
+cust-113,Rachel Green,Email,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-09-23,flowdesk
+cust-111,Amara Okafor,Email,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-09-23,flowdesk
+cust-104,Marcus Vance,Feature Request,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-09-24,flowdesk
+cust-115,Fatima Al-Sayed,App Review,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-09-24,flowdesk
+cust-110,Lucas Silva,Feature Request,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-09-25,flowdesk
+cust-115,Fatima Al-Sayed,Email,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-09-26,flowdesk
+cust-109,Sophia Patel,Survey,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-09-26,flowdesk
+cust-113,Rachel Green,Interview,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-09-27,flowdesk
+cust-106,David Kim,Interview,Notifications can be slightly noisy during active brainstorming sessions.,3,Notifications,neutral,-0.1,2026-09-27,flowdesk
+cust-111,Amara Okafor,Interview,Notifications can be slightly noisy during active brainstorming sessions.,3,Notifications,neutral,-0.1,2026-09-27,flowdesk
+cust-106,David Kim,App Review,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-09-28,flowdesk
+cust-110,Lucas Silva,Email,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-28,flowdesk
+cust-103,Chloe Bennett,Support Ticket,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-09-28,flowdesk
+cust-112,Thomas Becker,Feature Request,We are on the Enterprise plan and file uploads keep timing out. Considering switching tools.,1,Performance,negative,-0.95,2026-09-28,flowdesk
+cust-114,Kenji Sato,Interview,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-09-29,flowdesk
+cust-109,Sophia Patel,Email,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-09-29,flowdesk
+cust-109,Sophia Patel,Email,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-30,flowdesk
+cust-104,Marcus Vance,Email,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-09-30,flowdesk
+cust-106,David Kim,Support Ticket,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-09-30,flowdesk
+cust-110,Lucas Silva,Support Ticket,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-09-30,flowdesk
+cust-113,Rachel Green,App Review,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-10-01,flowdesk
+cust-104,Marcus Vance,Support Ticket,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-10-01,flowdesk
+cust-109,Sophia Patel,App Review,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-10-01,flowdesk
+cust-102,Alex Rivera,Support Ticket,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-02,flowdesk
+cust-104,Marcus Vance,App Review,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-10-02,flowdesk
+cust-110,Lucas Silva,Feature Request,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-03,flowdesk
+cust-104,Marcus Vance,Interview,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-10-03,flowdesk
+cust-108,Liam O'Connor,Support Ticket,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-10-03,flowdesk
+cust-115,Fatima Al-Sayed,Feature Request,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-04,flowdesk
+cust-108,Liam O'Connor,App Review,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-10-04,flowdesk
+cust-107,Maya Lin,Email,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-10-05,flowdesk
+cust-113,Rachel Green,App Review,Upload failed: 'Network connection dropped' error message appears repeatedly when uploading design assets.,2,Performance,negative,-0.75,2026-10-05,flowdesk
+cust-114,Kenji Sato,Support Ticket,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-05,flowdesk
+cust-109,Sophia Patel,Interview,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-10-06,flowdesk
+cust-102,Alex Rivera,Interview,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-06,flowdesk
+cust-103,Chloe Bennett,Survey,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-10-06,flowdesk
+cust-101,Sarah Connor,Support Ticket,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-10-06,flowdesk
+cust-110,Lucas Silva,App Review,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-10-07,flowdesk
+cust-105,Elena Rostova,App Review,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-08,flowdesk
+cust-107,Maya Lin,Email,Upload speeds degrade severely during peak working hours. It took 35 mins to upload our project zip.,1,Performance,negative,-0.85,2026-10-08,flowdesk
+cust-109,Sophia Patel,Feature Request,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-10-08,flowdesk
+cust-112,Thomas Becker,Support Ticket,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-10-08,flowdesk
+cust-110,Lucas Silva,Survey,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-10-08,flowdesk
+cust-109,Sophia Patel,Email,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-10-08,flowdesk
+cust-105,Elena Rostova,Support Ticket,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-10-08,flowdesk
+cust-104,Marcus Vance,Survey,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-10-09,flowdesk
+cust-107,Maya Lin,Interview,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-10-09,flowdesk
+cust-115,Fatima Al-Sayed,Feature Request,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-10-10,flowdesk
+cust-102,Alex Rivera,Interview,Notifications can be slightly noisy during active brainstorming sessions.,3,Notifications,neutral,-0.1,2026-10-10,flowdesk
+cust-112,Thomas Becker,App Review,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-10-10,flowdesk
+cust-102,Alex Rivera,Interview,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-11,flowdesk
+cust-112,Thomas Becker,App Review,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-10-11,flowdesk
+cust-109,Sophia Patel,App Review,Upload speeds degrade severely during peak working hours. It took 35 mins to upload our project zip.,1,Performance,negative,-0.85,2026-10-11,flowdesk
+cust-101,Sarah Connor,Support Ticket,Why does uploading screen recordings crash the tab? This is a severe blocker for our team.,1,Performance,negative,-0.9,2026-10-11,flowdesk
+cust-105,Elena Rostova,Interview,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-10-11,flowdesk
+cust-102,Alex Rivera,Interview,Upload speeds degrade severely during peak working hours. It took 35 mins to upload our project zip.,1,Performance,negative,-0.85,2026-10-12,flowdesk
+cust-106,David Kim,Survey,Large file uploads are painfully slow. Takes over 20 minutes for a 50MB PDF report.,1,Performance,negative,-0.85,2026-10-12,flowdesk
+cust-104,Marcus Vance,Support Ticket,File uploads timeout after 60 seconds without giving any option to resume.,1,Performance,negative,-0.8,2026-10-13,flowdesk
+cust-105,Elena Rostova,Interview,We are on the Enterprise plan and file uploads keep timing out. Considering switching tools.,1,Performance,negative,-0.95,2026-10-13,flowdesk
+cust-108,Liam O'Connor,App Review,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-10-13,flowdesk
+cust-111,Amara Okafor,Email,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-10-13,flowdesk
+cust-112,Thomas Becker,App Review,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-10-13,flowdesk
+cust-102,Alex Rivera,Survey,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-10-13,flowdesk
+cust-104,Marcus Vance,Email,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-10-13,flowdesk
+cust-106,David Kim,App Review,Uploading 200MB video presentations fails consistently at 98%. We lost our client pitch deck.,1,Performance,negative,-0.9,2026-10-14,flowdesk
+cust-104,Marcus Vance,Support Ticket,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-10-14,flowdesk
+cust-114,Kenji Sato,Survey,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-10-14,flowdesk
+cust-101,Sarah Connor,Email,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-16,flowdesk
+cust-114,Kenji Sato,Email,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-10-16,flowdesk
+cust-109,Sophia Patel,Support Ticket,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-17,flowdesk
+cust-104,Marcus Vance,Email,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-10-17,flowdesk
+cust-113,Rachel Green,App Review,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-10-17,flowdesk
+cust-110,Lucas Silva,Support Ticket,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-10-17,flowdesk
+cust-114,Kenji Sato,Interview,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-18,flowdesk
+cust-112,Thomas Becker,App Review,"Whatever you guys did to the upload pipeline in Release 3.2, thank you! It just works seamlessly.",5,Performance,positive,0.9,2026-10-18,flowdesk
+cust-103,Chloe Bennett,App Review,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-18,flowdesk
+cust-103,Chloe Bennett,Email,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-10-18,flowdesk
+cust-111,Amara Okafor,Survey,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-10-18,flowdesk
+cust-110,Lucas Silva,Survey,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-10-19,flowdesk
+cust-112,Thomas Becker,Interview,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-19,flowdesk
+cust-114,Kenji Sato,Email,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-10-19,flowdesk
+cust-104,Marcus Vance,Email,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-10-20,flowdesk
+cust-105,Elena Rostova,Support Ticket,Love the real-time collaboration canvas. Editing alongside my team is seamless.,5,Collaboration,positive,0.9,2026-10-20,flowdesk
+cust-101,Sarah Connor,Email,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-21,flowdesk
+cust-110,Lucas Silva,Interview,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-10-21,flowdesk
+cust-101,Sarah Connor,Email,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-10-21,flowdesk
+cust-104,Marcus Vance,Feature Request,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-10-21,flowdesk
+cust-112,Thomas Becker,Email,Upload speed is finally at enterprise grade. Kudos to the engineering team.,5,Performance,positive,0.9,2026-10-22,flowdesk
+cust-102,Alex Rivera,Email,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-10-22,flowdesk
+cust-114,Kenji Sato,Feature Request,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-10-22,flowdesk
+cust-104,Marcus Vance,Email,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-10-22,flowdesk
+cust-105,Elena Rostova,Support Ticket,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-10-22,flowdesk
+cust-111,Amara Okafor,Interview,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-10-23,flowdesk
+cust-107,Maya Lin,App Review,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-10-23,flowdesk
+cust-102,Alex Rivera,Email,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-10-23,flowdesk
+cust-113,Rachel Green,Email,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-10-24,flowdesk
+cust-106,David Kim,Feature Request,"Whatever you guys did to the upload pipeline in Release 3.2, thank you! It just works seamlessly.",5,Performance,positive,0.9,2026-10-24,flowdesk
+cust-107,Maya Lin,Support Ticket,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-10-24,flowdesk
+cust-106,David Kim,Support Ticket,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-10-24,flowdesk
+cust-115,Fatima Al-Sayed,App Review,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-10-24,flowdesk
+cust-112,Thomas Becker,Feature Request,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-10-24,flowdesk
+cust-104,Marcus Vance,Feature Request,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-10-25,flowdesk
+cust-104,Marcus Vance,App Review,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-25,flowdesk
+cust-111,Amara Okafor,Survey,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-10-25,flowdesk
+cust-105,Elena Rostova,Support Ticket,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-10-25,flowdesk
+cust-104,Marcus Vance,App Review,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-10-25,flowdesk
+cust-101,Sarah Connor,Feature Request,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-10-25,flowdesk
+cust-101,Sarah Connor,Survey,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-10-25,flowdesk
+cust-109,Sophia Patel,Email,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-10-26,flowdesk
+cust-104,Marcus Vance,Survey,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-10-26,flowdesk
+cust-113,Rachel Green,Survey,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-10-26,flowdesk
+cust-105,Elena Rostova,Interview,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-10-26,flowdesk
+cust-112,Thomas Becker,Survey,Would appreciate more webhook triggers for custom third-party integrations.,4,Feature Request,positive,0.5,2026-10-27,flowdesk
+cust-112,Thomas Becker,Interview,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-28,flowdesk
+cust-106,David Kim,Interview,Uploading raw audio files failed three times today. Please fix the file transfer pipeline.,1,Performance,negative,-0.9,2026-10-28,flowdesk
+cust-115,Fatima Al-Sayed,Feature Request,Upload speed is finally at enterprise grade. Kudos to the engineering team.,5,Performance,positive,0.9,2026-10-29,flowdesk
+cust-111,Amara Okafor,Support Ticket,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-29,flowdesk
+cust-106,David Kim,Email,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-10-29,flowdesk
+cust-112,Thomas Becker,Survey,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-10-29,flowdesk
+cust-105,Elena Rostova,Feature Request,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-10-29,flowdesk
+cust-108,Liam O'Connor,App Review,Upload speed is finally at enterprise grade. Kudos to the engineering team.,5,Performance,positive,0.9,2026-10-30,flowdesk
+cust-103,Chloe Bennett,Interview,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-10-30,flowdesk
+cust-105,Elena Rostova,Interview,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-30,flowdesk
+cust-112,Thomas Becker,Survey,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-30,flowdesk
+cust-107,Maya Lin,Feature Request,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-10-30,flowdesk
+cust-112,Thomas Becker,Email,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-10-30,flowdesk
+cust-107,Maya Lin,App Review,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-10-31,flowdesk
+cust-101,Sarah Connor,Survey,Huge bottleneck trying to upload weekly marketing video assets. Speed is under 200kbps.,2,Performance,negative,-0.75,2026-10-31,flowdesk
+cust-114,Kenji Sato,App Review,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-31,flowdesk
+cust-104,Marcus Vance,Survey,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-10-31,flowdesk
+cust-109,Sophia Patel,Survey,Mobile responsive layout works well on iPad and tablet screens.,4,UI,positive,0.75,2026-10-31,flowdesk
+cust-108,Liam O'Connor,Survey,Would appreciate more webhook triggers for custom third-party integrations.,4,Feature Request,positive,0.5,2026-10-31,flowdesk
+cust-102,Alex Rivera,Interview,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-10-31,flowdesk
+cust-108,Liam O'Connor,App Review,Upload speed is finally at enterprise grade. Kudos to the engineering team.,5,Performance,positive,0.9,2026-11-01,flowdesk
+cust-109,Sophia Patel,Survey,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-01,flowdesk
+cust-111,Amara Okafor,Support Ticket,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-11-01,flowdesk
+cust-104,Marcus Vance,App Review,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-11-01,flowdesk
+cust-101,Sarah Connor,Feature Request,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-02,flowdesk
+cust-105,Elena Rostova,App Review,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-11-02,flowdesk
+cust-111,Amara Okafor,Support Ticket,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-11-03,flowdesk
+cust-111,Amara Okafor,Email,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-03,flowdesk
+cust-112,Thomas Becker,App Review,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-11-03,flowdesk
+cust-111,Amara Okafor,Email,"Whatever you guys did to the upload pipeline in Release 3.2, thank you! It just works seamlessly.",5,Performance,positive,0.9,2026-11-04,flowdesk
+cust-114,Kenji Sato,Email,Tested the new file upload engine today with a 1.2GB video file. Uploaded in 18 seconds! Incredible improvement.,5,Performance,positive,0.95,2026-11-04,flowdesk
+cust-113,Rachel Green,Feature Request,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-11-04,flowdesk
+cust-113,Rachel Green,Email,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-11-04,flowdesk
+cust-105,Elena Rostova,App Review,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-11-04,flowdesk
+cust-110,Lucas Silva,App Review,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-11-04,flowdesk
+cust-112,Thomas Becker,Support Ticket,Tested the new file upload engine today with a 1.2GB video file. Uploaded in 18 seconds! Incredible improvement.,5,Performance,positive,0.95,2026-11-05,flowdesk
+cust-104,Marcus Vance,Email,"Whatever you guys did to the upload pipeline in Release 3.2, thank you! It just works seamlessly.",5,Performance,positive,0.9,2026-11-05,flowdesk
+cust-107,Maya Lin,Email,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-11-05,flowdesk
+cust-112,Thomas Becker,Email,Would appreciate more webhook triggers for custom third-party integrations.,4,Feature Request,positive,0.5,2026-11-05,flowdesk
+cust-114,Kenji Sato,Support Ticket,Would appreciate more webhook triggers for custom third-party integrations.,4,Feature Request,positive,0.5,2026-11-05,flowdesk
+cust-102,Alex Rivera,Feature Request,"Whatever you guys did to the upload pipeline in Release 3.2, thank you! It just works seamlessly.",5,Performance,positive,0.9,2026-11-06,flowdesk
+cust-111,Amara Okafor,Survey,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-06,flowdesk
+cust-102,Alex Rivera,App Review,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-11-06,flowdesk
+cust-107,Maya Lin,Support Ticket,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-11-06,flowdesk
+cust-101,Sarah Connor,App Review,The user interface is very clean and intuitive for onboarding new hires.,4,UI,positive,0.7,2026-11-06,flowdesk
+cust-102,Alex Rivera,Survey,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-11-07,flowdesk
+cust-103,Chloe Bennett,App Review,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-07,flowdesk
+cust-105,Elena Rostova,Email,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-11-07,flowdesk
+cust-112,Thomas Becker,Feature Request,Can you please add a progress indicator or resume capability for large file uploads? It fails halfway through.,2,Feature Request,negative,-0.5,2026-11-08,flowdesk
+cust-109,Sophia Patel,Survey,We desperately need bulk CSV export for monthly analytics reports.,2,Reporting,negative,-0.5,2026-11-08,flowdesk
+cust-109,Sophia Patel,Survey,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-11-08,flowdesk
+cust-107,Maya Lin,Feature Request,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-08,flowdesk
+cust-104,Marcus Vance,Support Ticket,Customer support responded within 15 minutes and resolved our billing inquiry.,5,Support,positive,0.9,2026-11-08,flowdesk
+cust-109,Sophia Patel,App Review,Role-based permission controls are straightforward to configure.,4,Security,positive,0.65,2026-11-08,flowdesk
+cust-107,Maya Lin,App Review,Uploads are blazing fast now. The chunked upload optimization completely solved our team's timeout issues.,5,Performance,positive,0.9,2026-11-09,flowdesk
+cust-107,Maya Lin,Feature Request,Support ticket: Uploading files larger than 100MB constantly yields 504 Gateway Timeout.,1,Performance,negative,-0.95,2026-11-09,flowdesk
+cust-114,Kenji Sato,Survey,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-09,flowdesk
+cust-108,Liam O'Connor,Feature Request,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-11-09,flowdesk
+cust-104,Marcus Vance,Email,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-11-09,flowdesk
+cust-109,Sophia Patel,Email,Notifications can be slightly noisy during active brainstorming sessions.,3,Notifications,neutral,-0.1,2026-11-09,flowdesk
+cust-112,Thomas Becker,Email,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-10,flowdesk
+cust-107,Maya Lin,App Review,Dark mode please! It is our entire design team's #1 requested feature.,3,UI,neutral,-0.2,2026-11-10,flowdesk
+cust-101,Sarah Connor,Feature Request,Feature request: Bulk export of all ticket feedback to CSV or Parquet.,4,Feature Request,positive,0.4,2026-11-10,flowdesk
+cust-101,Sarah Connor,Survey,Slack integration works wonderfully for task assignment alerts.,5,Integrations,positive,0.85,2026-11-10,flowdesk
+cust-110,Lucas Silva,Support Ticket,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-11-10,flowdesk
+cust-113,Rachel Green,Feature Request,The calendar sync with Google Workspace works without any hitches.,5,Integrations,positive,0.85,2026-11-10,flowdesk
+cust-112,Thomas Becker,Email,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-11,flowdesk
+cust-115,Fatima Al-Sayed,Email,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-11,flowdesk
+cust-108,Liam O'Connor,Feature Request,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-11-11,flowdesk
+cust-102,Alex Rivera,Support Ticket,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-11,flowdesk
+cust-107,Maya Lin,Support Ticket,Dark mode toggle would be a huge quality of life upgrade for developers.,4,UI,positive,0.5,2026-11-12,flowdesk
+cust-101,Sarah Connor,Survey,Occasional minor lag when loading 500+ items in a single kanban board.,3,Performance,neutral,-0.3,2026-11-12,flowdesk
+cust-103,Chloe Bennett,Email,Upload speed is finally at enterprise grade. Kudos to the engineering team.,5,Performance,positive,0.9,2026-11-13,flowdesk
+cust-113,Rachel Green,Interview,The progress bar for multipart uploads is super smooth and reliable.,4,Performance,positive,0.8,2026-11-13,flowdesk
+cust-104,Marcus Vance,App Review,"The dashboard is sleek, but file uploads are frustratingly sluggish.",2,Performance,negative,-0.6,2026-11-13,flowdesk
+cust-105,Elena Rostova,Support Ticket,Need the ability to export filtered views directly to CSV for executive presentations.,3,Reporting,neutral,-0.1,2026-11-13,flowdesk
+cust-108,Liam O'Connor,Feature Request,Pricing feels a bit steep for smaller startup teams under 10 members.,3,Pricing,neutral,0.0,2026-11-14,flowdesk
+cust-113,Rachel Green,Feature Request,Uploading 500MB zip archives used to fail every time; now it finishes before I even switch tabs.,5,Performance,positive,0.85,2026-11-15,flowdesk
+cust-112,Thomas Becker,Support Ticket,Please add dark mode! Late-night triage in FlowDesk is blindingly bright.,3,UI,neutral,-0.2,2026-11-15,flowdesk
+cust-113,Rachel Green,Interview,Search filters are quick and accurate when looking through archived tickets.,5,Search,positive,0.8,2026-11-15,flowdesk
