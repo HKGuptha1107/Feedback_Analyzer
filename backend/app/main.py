@@ -1,7 +1,10 @@
 """Main FastAPI application entrypoint."""
 
 from contextlib import asynccontextmanager
+from pathlib import Path
 from fastapi import FastAPI
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
 from app.database import init_db, SessionLocal
@@ -52,6 +55,11 @@ app.add_middleware(
 app.include_router(feedback_router)
 app.include_router(memory_router)
 
+FRONTEND_DIST = Path(__file__).resolve().parents[2] / "frontend" / "dist"
+FRONTEND_INDEX = FRONTEND_DIST / "index.html"
+if (FRONTEND_DIST / "assets").is_dir():
+    app.mount("/assets", StaticFiles(directory=FRONTEND_DIST / "assets"), name="frontend-assets")
+
 
 @app.get("/api/health", tags=["Health"])
 def health_check():
@@ -65,14 +73,27 @@ def health_check():
     }
 
 
-@app.get("/", tags=["Root"])
+@app.get("/", tags=["Root"], include_in_schema=False)
 def root():
-    """Root welcoming endpoint pointing to Swagger docs."""
+    """Serve the compiled frontend when available, otherwise return API metadata."""
+    if FRONTEND_INDEX.is_file():
+        return FileResponse(FRONTEND_INDEX)
     return {
         "message": "Welcome to Feedback Analyzer API",
         "docs": "/docs",
         "health": "/api/health",
     }
+
+
+@app.get("/{frontend_path:path}", include_in_schema=False)
+def frontend_fallback(frontend_path: str):
+    """Serve frontend routes and assets while leaving API routes to FastAPI."""
+    if frontend_path.startswith("api/") or not FRONTEND_INDEX.is_file():
+        return {"detail": "Not Found"}
+    requested_file = FRONTEND_DIST / frontend_path
+    if requested_file.is_file():
+        return FileResponse(requested_file)
+    return FileResponse(FRONTEND_INDEX)
 
 
 if __name__ == "__main__":
