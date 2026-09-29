@@ -1,6 +1,8 @@
 import type { Feedback, FeedbackResponse, MemoryOverview, UploadSummary } from './types'
 
-const API_ROOT = import.meta.env.VITE_API_URL ?? ''
+const API_ROOT = import.meta.env.VITE_API_URL || (
+  import.meta.env.PROD ? 'https://feedbackanalyzer-production-dd08.up.railway.app' : ''
+)
 
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
   const response = await fetch(`${API_ROOT}${path}`, {
