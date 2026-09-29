@@ -43,7 +43,7 @@ class Settings:
     HINDSIGHT_BANK_ID: str = os.getenv("HINDSIGHT_BANK_ID", "flowdesk-feedback-bank")
 
     # Web & CORS
-    FRONTEND_URL: str = os.getenv("FRONTEND_URL", "http://localhost:5173")
+    FRONTEND_URL: str = os.getenv("FRONTEND_URL", "http://localhost:5173").rstrip("/")
     BACKEND_PORT: int = int(os.getenv("BACKEND_PORT", "8000"))
 
     @property
